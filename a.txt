@@ -1,0 +1,15 @@
+
+# Dog Bark Audio Dataset
+
+This repository contains a **small randomly sampled subset** of our dog bark dataset, including **5,000 dog barks**.
+
+## Downloading the Dataset
+
+The audio files (in `.wav` format) have been uploaded to an anonymous GitHub account. However, some users may experience issues downloading from this source.
+
+If you cannot download the audio files from GitHub, please use the following [Google Drive link](https://drive.google.com/file/d/1YtI7ELqrDMh42XEztKR5sfPvPG5_lYib/view) to access and download the files.
+
+## Dataset Structure
+
+- `sampled/` - Contains 5,000 `.wav` files of dog barks.
+
